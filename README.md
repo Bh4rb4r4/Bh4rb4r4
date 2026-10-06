@@ -1,11 +1,6 @@
-<div align="center" style="background-color: rgba(75, 0, 130, 0.25); background-image: radial-gradient(#D8BFD8 1px, transparent 1px); background-size: 20px 20px; padding: 40px; border-radius: 15px;">
-  <link href="https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap" rel="stylesheet">
-  <h1 style="font-family: 'Gilda Display', serif; font-size: 42px; color: #4B0082; text-shadow: 1px 1px 2px #E6E6FA;">
-    Hello everyone<br>I am Bhárbara
-  </h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=180&section=header&text=Hello%20everyone%20%0AI%20am%20Bh%C3%A1rbara&fontSize=36&fontColor=ffffff&fontAlignY=50" />
 </div>
-
-<br>
 
 ### 🌸 Personal information
 
